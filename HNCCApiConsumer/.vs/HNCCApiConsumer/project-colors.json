@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "611e1268-5891-4ff8-8325-1f8eedbc0bc7": {
+      "ProjectGuid": "611e1268-5891-4ff8-8325-1f8eedbc0bc7",
+      "DisplayName": "HNCAApiConsumer",
+      "ColorIndex": 0
+    },
+    "dc97975d-d926-4dff-87c5-f60942975837": {
+      "ProjectGuid": "dc97975d-d926-4dff-87c5-f60942975837",
+      "DisplayName": "HNCAApiConsumerApplication",
+      "ColorIndex": 1
+    },
+    "361c7e35-e3c2-4d13-9ac4-7e98a179bba8": {
+      "ProjectGuid": "361c7e35-e3c2-4d13-9ac4-7e98a179bba8",
+      "DisplayName": "HNCAApiServices",
+      "ColorIndex": 2
+    },
+    "fe2e3de6-6d02-4508-a462-cc2ea085733c": {
+      "ProjectGuid": "fe2e3de6-6d02-4508-a462-cc2ea085733c",
+      "DisplayName": "HNCAApiDomain",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
